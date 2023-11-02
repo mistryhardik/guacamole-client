@@ -1,0 +1,9 @@
+{
+    "guacamoleVersion" : "1.0.0",
+    "name"             : "ByteLabs365 Disclaimer",
+    "namespace"        : "bytelabs365-disclaimer",
+    
+    "html" : [
+        "html/bytelabs365-disclaimer.html"
+    ]
+}

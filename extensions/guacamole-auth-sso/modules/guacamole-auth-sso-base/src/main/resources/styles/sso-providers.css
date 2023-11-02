@@ -18,12 +18,13 @@
  */
 
 .login-ui .sso-providers {
-
     padding: 0.25em 0.5em;
-    position: absolute;
-    bottom: 0;
-    left: 0;
+    text-align: center;
+}
 
+.sso-providers {
+    margin-top: 20px;
+    font-size: 15px;
 }
 
 .sso-providers ul {
